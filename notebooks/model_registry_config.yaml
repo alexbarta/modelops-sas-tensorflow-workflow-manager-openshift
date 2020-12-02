@@ -1,5 +1,5 @@
 connection:
-    server: 172.28.106.218
+    server: hpecp14.local:10007
 modelrepository_meta:
-    project_name: "sas_modelops_tensorflow_openshift"
+    project_name: "sas_modelops_tensorflow_ezmeral"
     repository: Public
